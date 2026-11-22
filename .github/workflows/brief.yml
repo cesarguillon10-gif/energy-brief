@@ -1,11 +1,13 @@
 name: Daily brief
 on:
-  schedule:            # GitHub cron is best-effort, so several slots; later ones skip in seconds
-    - cron: "7 5 * * *"
-    - cron: "37 5 * * *"
-    - cron: "7 6 * * *"
-    - cron: "37 6 * * *"
-    - cron: "17 7 * * *"
+  schedule:            # ready by 05:30 UK all year (cron is UTC; UK = UTC in winter, UTC+1 in summer)
+    - cron: "40 3 * * *"   # 03:40 UK winter / 04:40 UK summer
+    - cron: "10 4 * * *"
+    - cron: "40 4 * * *"
+    - cron: "5 5 * * *"    # backups; later runs skip in seconds once today's brief exists
+    - cron: "35 5 * * *"
+    - cron: "15 6 * * *"
+    - cron: "15 7 * * *"
   workflow_dispatch:
     inputs:
       force: {description: "Rebuild even if today exists", type: boolean, default: false}
