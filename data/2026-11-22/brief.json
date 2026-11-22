@@ -1,0 +1,174 @@
+{
+ "interview": {
+  "question": "How would you pick Axle's first market outside GB?",
+  "answer": [
+   "Score markets on rules, device base and route to revenue, like my Cornwall Insight due diligence.",
+   "Check market access first: balancing rules, aggregator rights and supplier partners, as I did at NESO.",
+   "Start with a pilot with one supplier or grid operator to test revenue per device."
+  ]
+ },
+ "learn": {
+  "title": "How Axle makes money",
+  "bullets": [
+   "Axle controls home devices so they use power when it is cheap and green.",
+   "It earns from flexibility markets, grid services and supplier savings on energy cost.",
+   "Revenue is shared across many devices, so revenue per device drives the business case."
+  ],
+  "so_what": "You can frame every country choice as expected revenue per device against the cost of entry.",
+  "topic": "How Axle makes money",
+  "wiki": "Demand response",
+  "link": {
+   "kind": "wikipedia",
+   "id": 0,
+   "query": "Demand response"
+  },
+  "img": "img/2026-11-22-6.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "moves": [
+  {
+   "text": "Read the Electrek story on GM's V2G pilot; draft a two-line LinkedIn comment with your flexibility view.",
+   "link": {
+    "kind": "article",
+    "id": 1,
+    "query": ""
+   }
+  },
+  {
+   "text": "Skim the Dutch grid congestion story; note how Enexis (Dutch network operator) buys flexibility for later interview use.",
+   "link": {
+    "kind": "article",
+    "id": 63,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow E.ON on LinkedIn; note how its bidirectional pilots could shape supplier partnerships.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "E.ON"
+   }
+  }
+ ],
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "GM is paying US drivers for car-to-grid power, so home flexibility is going mainstream.",
+   "id": 1
+  },
+  {
+   "emoji": "",
+   "text": "E.ON is piloting two-way EV charging in Czechia, so suppliers are a likely Axle partner type.",
+   "id": 56
+  },
+  {
+   "emoji": "",
+   "text": "Enexis and Siemens target Dutch congestion, so the Netherlands is a likely early Axle market.",
+   "id": 63
+  }
+ ],
+ "top3": [
+  {
+   "id": 1,
+   "headline": "GM launches California V2G pilot",
+   "bullets": [
+    "GM Energy and WeaveGrid pilot with Southern California Edison customers.",
+    "Drivers could get over $16,000 towards equipment and installation."
+   ],
+   "why": "Carmakers and utilities are now paying for vehicle-to-grid, a new route to market for flexibility.",
+   "use": "Cite this in interviews as proof home flexibility is going mainstream in the US.",
+   "use_link": {
+    "kind": "article",
+    "id": 1,
+    "query": ""
+   },
+   "country": "United States",
+   "wiki": "Vehicle-to-grid",
+   "paywall": false,
+   "img": "img/2026-11-22-1.jpg",
+   "credit": ""
+  },
+  {
+   "id": 56,
+   "headline": "E.ON pilots two-way EV charging in Czechia",
+   "bullets": [
+    "E.ON is testing bidirectional EV charging in the Czech Republic.",
+    "It is a pilot, not yet a commercial rollout."
+   ],
+   "why": "Large suppliers are testing vehicle-to-grid, which makes them likely Axle partners.",
+   "use": "Follow E.ON's flexibility team on LinkedIn; they are a likely Axle partner.",
+   "use_link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "E.ON"
+   },
+   "country": "Czech Republic",
+   "wiki": "Charging station",
+   "paywall": false,
+   "img": "img/2026-11-22-2.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 63,
+   "headline": "Siemens and Enexis tackle Dutch congestion",
+   "bullets": [
+    "Siemens and Enexis are teaming up on Dutch grid congestion.",
+    "Enexis is a Dutch distribution network operator."
+   ],
+   "why": "Dutch network operators need flexibility, which opens partnership routes for Axle.",
+   "use": "Add Enexis to your list of grid operator targets for the Netherlands.",
+   "use_link": {
+    "kind": "article",
+    "id": 63,
+    "query": ""
+   },
+   "country": "Netherlands",
+   "wiki": "Transmission tower",
+   "paywall": false,
+   "img": "img/2026-11-22-3.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 12,
+   "headline": "SP Energy Networks North West launches day-ahead flexibility",
+   "bullets": [
+    "SP Electricity North West has launched day-ahead flexibility markets.",
+    "This adds a new short-notice market in GB distribution."
+   ],
+   "why": "New GB distribution flexibility markets give Axle more revenue routes at home.",
+   "use": "Mention this in interviews as a GB revenue stream you track.",
+   "use_link": {
+    "kind": "article",
+    "id": 12,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Smart meter",
+   "paywall": true,
+   "img": "img/2026-11-22-4.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 50,
+   "headline": "Germany advances over 4GWh of batteries",
+   "bullets": [
+    "Elements Green, EnBW, Flower and others progress projects towards construction.",
+    "Total is over 4GWh ahead of a year-end FID deadline."
+   ],
+   "why": "Fast grid battery growth means tougher price competition for home flexibility in Germany.",
+   "use": "Note this as a risk in any Germany entry case you discuss.",
+   "use_link": {
+    "kind": "article",
+    "id": 50,
+    "query": ""
+   },
+   "country": "Germany",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-22-5.jpg",
+   "credit": "Photo: Wikipedia"
+  }
+ ],
+ "sections": []
+}

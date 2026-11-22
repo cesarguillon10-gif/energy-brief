@@ -1,0 +1,122 @@
+{
+ "feeds": [
+  {
+   "name": "Energy Storage News",
+   "url": "https://www.energy-storage.news/feed/"
+  },
+  {
+   "name": "Carbon Brief",
+   "url": "https://www.carbonbrief.org/feed/"
+  },
+  {
+   "name": "Clean Energy Wire",
+   "url": "https://www.cleanenergywire.org/rss.xml"
+  },
+  {
+   "name": "Electrek",
+   "url": "https://electrek.co/feed/"
+  },
+  {
+   "name": "Canary Media",
+   "url": "https://www.canarymedia.com/rss.rss"
+  },
+  {
+   "name": "Sifted",
+   "url": "https://sifted.eu/feed"
+  },
+  {
+   "name": "pv magazine",
+   "url": "https://www.pv-magazine.com/feed/"
+  },
+  {
+   "name": "edie",
+   "url": "https://www.edie.net/feed/"
+  },
+  {
+   "name": "The Energyst",
+   "url": "https://theenergyst.com/feed/"
+  },
+  {
+   "name": "electrive",
+   "url": "https://www.electrive.com/feed/"
+  },
+  {
+   "name": "Utility Dive",
+   "url": "https://www.utilitydive.com/feeds/news/"
+  },
+  {
+   "name": "RenewEconomy",
+   "url": "https://reneweconomy.com.au/feed/"
+  },
+  {
+   "name": "TechCrunch Climate",
+   "url": "https://techcrunch.com/category/climate/feed/"
+  },
+  {
+   "name": "Guardian Energy",
+   "url": "https://www.theguardian.com/environment/energy/rss"
+  },
+  {
+   "name": "GOV.UK DESNZ",
+   "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero"
+  },
+  {
+   "name": "GOV.UK Ofgem",
+   "url": "https://www.gov.uk/search/all.atom?organisations%5B%5D=ofgem"
+  },
+  {
+   "name": "Modo Energy",
+   "url": "https://modoenergy.com/research/rss.xml"
+  }
+ ],
+ "google_news": [
+  {
+   "name": "Axle Energy",
+   "q": "\"Axle Energy\""
+  },
+  {
+   "name": "Flexibility",
+   "q": "\"demand flexibility\" OR \"demand side response\" OR \"virtual power plant\" OR \"flexibility market\""
+  },
+  {
+   "name": "Competitors",
+   "q": "Kraken Octopus OR Kaluza OR Ohme OR Tibber OR Enode OR Sympower OR Voltalis OR Flexitricity OR Piclo OR \"Lunar Energy\" OR GivEnergy"
+  },
+  {
+   "name": "Home devices",
+   "q": "\"smart charging\" OR \"vehicle-to-grid\" OR \"home battery\" OR \"heat pump\" grid flexibility"
+  },
+  {
+   "name": "GB market reform",
+   "q": "Ofgem OR NESO OR \"market reform\" OR REMA electricity flexibility"
+  },
+  {
+   "name": "Europe flex markets",
+   "q": "flexibility OR \"balancing market\" OR aggregator electricity Germany OR Netherlands OR France OR Nordics OR Spain OR Italy"
+  },
+  {
+   "name": "US & Australia flex",
+   "q": "\"virtual power plant\" OR \"demand response\" ERCOT OR California OR Australia"
+  },
+  {
+   "name": "Flex funding",
+   "q": "energy flexibility startup raises OR funding OR acquires"
+  },
+  {
+   "name": "UK trade press",
+   "q": "site:current-news.co.uk OR site:utilityweek.co.uk OR site:renews.biz OR site:smart-energy.com"
+  },
+  {
+   "name": "Regulators & operators",
+   "q": "site:neso.energy OR site:ofgem.gov.uk OR site:elexon.co.uk OR site:energynetworks.org"
+  },
+  {
+   "name": "Analysts",
+   "q": "site:modoenergy.com OR site:cornwall-insight.com OR site:auroraer.com OR site:timera-energy.com"
+  },
+  {
+   "name": "EU policy",
+   "q": "site:euractiv.com energy OR electricity OR grid"
+  }
+ ]
+}
