@@ -1,0 +1,134 @@
+{
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "Negative prices are a real flexibility signal in Europe, which supports Axle's case for entering there.",
+   "id": 1
+  },
+  {
+   "emoji": "",
+   "text": "Australia's grid now leans on 5.3GW of new batteries, so home flexibility competes with big storage.",
+   "id": 7
+  },
+  {
+   "emoji": "",
+   "text": "Big batteries are spreading into backup products, so Axle will see more device makers to partner with.",
+   "id": 12
+  }
+ ],
+ "top3": [
+  {
+   "id": 1,
+   "headline": "Eurelectric: negative prices signal flexibility value",
+   "bullets": [
+    "Negative prices guide battery and demand response investment in Europe.",
+    "Signal works only where subsidies and grid bottlenecks do not distort it."
+   ],
+   "why": "Shows where flexibility earns money in Europe, and where price signals are unreliable for market choice.",
+   "use": "Cite this in interviews when explaining how you would rank countries for entry.",
+   "use_link": {
+    "kind": "article",
+    "id": 1,
+    "query": ""
+   },
+   "country": "Europe",
+   "wiki": "Electricity pylon",
+   "paywall": false,
+   "img": "img/2026-11-23-1.jpg",
+   "credit": ""
+  },
+  {
+   "id": 7,
+   "headline": "Australia leans on batteries for summer",
+   "bullets": [
+    "Batteries are 5.3GW of 8.4GW new projects added to the NEM.",
+    "Additions have come since December 2025, per AEMO."
+   ],
+   "why": "Australia is a VPP-led market; grid-scale batteries set the price competition for home devices.",
+   "use": "Mention Australia as a benchmark market, and note big batteries compete with home flexibility.",
+   "use_link": {
+    "kind": "article",
+    "id": 7,
+    "query": ""
+   },
+   "country": "Australia",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-23-2.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 12,
+   "headline": "Briggs & Stratton launches scalable home battery",
+   "bullets": [
+    "16 kWh LFP battery, scalable up to 512 kWh.",
+    "96% minimum round-trip efficiency and a 12-year warranty."
+   ],
+   "why": "Another device maker enters home batteries; each new maker is a possible integration partner.",
+   "use": "Add Briggs & Stratton to your device-maker map as a possible battery integration target.",
+   "use_link": {
+    "kind": "article",
+    "id": 12,
+    "query": ""
+   },
+   "country": "United States",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-23-3.jpg",
+   "credit": ""
+  }
+ ],
+ "moves": [
+  {
+   "text": "Skim the Eurelectric negative prices report summary; note two countries where price signals look clean.",
+   "link": {
+    "kind": "article",
+    "id": 1,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow Axle Energy on LinkedIn and comment on negative prices with your NESO view.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Axle Energy"
+   }
+  },
+  {
+   "text": "Read the Wikipedia page on Demand response to tighten your definitions before interviews.",
+   "link": {
+    "kind": "wikipedia",
+    "id": 0,
+    "query": "Demand response"
+   }
+  }
+ ],
+ "learn": {
+  "title": "Revenue per device: EV charger vs heat pump",
+  "bullets": [
+   "An EV charger moves a large, flexible load, often 7 kW, for hours each night.",
+   "A heat pump load depends on weather and must protect comfort, so it shifts less.",
+   "Revenue per device comes from shifted kWh times price spread, plus any service payments."
+  ],
+  "so_what": "You will model revenue per device for each new country, so know which device earns more and why.",
+  "topic": "Revenue per device",
+  "wiki": "Heat pump",
+  "link": {
+   "kind": "google",
+   "id": 0,
+   "query": "EV charger vs heat pump flexibility revenue per device"
+  },
+  "img": "img/2026-11-23-4.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "interview": {
+  "question": "Which country should Axle enter next, and why?",
+  "answer": [
+   "Rank by price spreads and negative price signals, as Eurelectric advises, not only by headline subsidies.",
+   "Check market access: balancing service provider rules, metering and aggregator rights, from my Ofgem and NESO work.",
+   "Start with a pilot with a supplier partner to prove revenue per device."
+  ]
+ },
+ "sections": []
+}
