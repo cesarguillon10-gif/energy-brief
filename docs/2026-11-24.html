@@ -1,0 +1,162 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Paul&#x27;s Energy Brief · 24 Nov</title>
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Energy Brief">
+<meta name="theme-color" content="#0A0B10"><link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><rect width=%2224%22 height=%2224%22 rx=%226%22 fill=%22%236E9BFF%22/><path d=%22M13 3 5 13h6l-1 8 8-10h-6z%22 fill=%22white%22/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A0B10;--surface:rgba(255,255,255,.035);--surface2:rgba(255,255,255,.06);--ink:#D9DBE3;--head:#FFFFFF;--soft:#8D90A0;
+--line:rgba(255,255,255,.08);--accent:#6E9BFF;--accent2:#A78BFA;--accent-bg:rgba(110,155,255,.10);--fs:16px;
+--hf:"Space Grotesk",Inter,sans-serif;--bf:Inter,system-ui,sans-serif;
+--glow:radial-gradient(800px 420px at 90% -10%,rgba(110,155,255,.18),transparent 60%),radial-gradient(600px 400px at -10% 6%,rgba(167,139,250,.13),transparent 60%)}
+:root[data-theme="light"]{--bg:#F5F6FA;--surface:#FFFFFF;--surface2:#F0F2F8;--ink:#2A2E3D;--head:#0B0D18;--soft:#666B7E;
+--line:#E3E6EF;--accent:#2F5BEA;--accent2:#7C5CE0;--accent-bg:#EEF2FF;
+--glow:radial-gradient(800px 420px at 90% -10%,rgba(47,91,234,.09),transparent 60%),radial-gradient(600px 400px at -10% 6%,rgba(124,92,224,.07),transparent 60%)}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:60px;background:var(--bg)}
+body{margin:0;background:var(--glow),var(--bg);background-repeat:no-repeat;color:var(--ink);font-family:var(--bf);
+font-size:var(--fs);line-height:1.6;-webkit-font-smoothing:antialiased;min-height:100vh;font-feature-settings:"cv11","ss01"}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px 70px}
+header{padding:22px 0 0}
+.top{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:9px;font:600 13px var(--hf);color:var(--soft);letter-spacing:.01em}
+.logo{width:28px;height:28px;border-radius:8px;display:grid;place-items:center;font-size:13px;color:#fff;
+background:linear-gradient(135deg,var(--accent),var(--accent2));box-shadow:0 4px 14px rgba(110,155,255,.3)}
+.tools{display:flex;gap:6px}
+.tools button{font:500 12px var(--bf);color:var(--soft);background:var(--surface);border:1px solid var(--line);border-radius:8px;
+height:30px;min-width:34px;padding:0 10px;cursor:pointer}
+.tools button:hover{color:var(--head)}
+.eyebrow{font:600 11px var(--hf);color:var(--accent);margin:24px 0 2px;letter-spacing:.06em;text-transform:uppercase}
+h1{font-family:var(--hf);font-size:2.1em;line-height:1.1;margin:0 0 6px;font-weight:700;letter-spacing:-.025em;color:var(--head)}
+.sub{color:var(--soft);margin:0;font-size:.82em}
+nav{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:blur(14px);
+display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;padding:8px 0;margin:18px 0 0;border-bottom:1px solid var(--line)}
+nav::-webkit-scrollbar{display:none}
+nav a{flex:none;color:var(--soft);text-decoration:none;font:500 12.5px var(--bf);padding:6px 10px;border-radius:7px}
+nav a:hover{color:var(--head);background:var(--surface2)}
+h2{font:600 12px var(--hf);color:var(--soft);margin:38px 0 4px;letter-spacing:.06em;text-transform:uppercase;display:flex;align-items:center;gap:10px}
+h2::after{content:"";flex:1;height:1px;background:var(--line)}
+figure{margin:0;position:relative;overflow:hidden;background:var(--surface2)}
+figure img{display:block;width:100%;height:100%;object-fit:cover}
+.credit{position:absolute;right:6px;bottom:5px;font-size:9px;color:#fff;background:rgba(0,0,0,.5);padding:0 5px;border-radius:4px}
+.thumb .credit{display:none}
+
+.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px 10px 14px;display:flex;flex-direction:column}
+.hero.first{grid-column:1/-1;display:grid;grid-template-columns:1.15fr 1fr;gap:18px;padding:10px}
+.hero.first figure{grid-row:1/8;margin:0;aspect-ratio:auto;min-height:0}
+.hero.first figure img{position:absolute;inset:0}
+.hero.first > *:not(figure){margin-left:0;margin-right:6px}
+.hero.first .kicker{margin-top:8px}
+.hero > *:not(figure){margin-left:6px;margin-right:6px}
+.wide{aspect-ratio:2/1;border-radius:10px;margin:0 0 12px}
+.hero.first h3{font-size:1.45em}
+.kicker{display:flex;align-items:center;gap:8px;font:500 11.5px var(--bf);color:var(--soft);margin:0 0 4px}
+.n{width:19px;height:19px;border-radius:5px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;
+display:grid;place-items:center;font:700 11px var(--hf)}
+.lock{display:inline-flex;align-items:center;gap:3px;color:var(--soft);border:1px solid var(--line);border-radius:5px;padding:0 6px;font-size:10.5px}
+h3{font-family:var(--hf);font-size:1.12em;line-height:1.3;font-weight:600;margin:0 0 8px;letter-spacing:-.01em;color:var(--head)}
+ul{margin:0 0 10px;padding-left:1em;font-size:.94em}li{margin:0 0 4px}li::marker{color:var(--accent)}
+.why{margin:0 0 10px;padding:8px 11px;border-radius:9px;background:var(--accent-bg);font-size:.9em}
+.why span{display:block;font:600 10.5px var(--hf);color:var(--accent);margin-bottom:1px;letter-spacing:.05em;text-transform:uppercase}
+.src{font:500 11.5px var(--bf);color:var(--soft);text-decoration:none;margin-top:auto}
+.src:hover{color:var(--accent)}
+.row{display:flex;gap:16px;padding:18px 0;border-bottom:1px solid var(--line)}
+.row .body{flex:1;min-width:0}.row h3{font-size:1.05em}
+.thumb{flex:none;width:96px;height:96px;border-radius:10px;border:1px solid var(--line)}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:14px}.duo .sec{margin-top:46px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 16px 6px}
+.panel .wide{margin:-16px -16px 14px;border-radius:14px 14px 0 0;width:auto;aspect-ratio:21/9}
+.q{font:600 1.08em/1.35 var(--hf);color:var(--head);margin:0 0 10px;letter-spacing:-.01em}
+.label{font:600 10.5px var(--hf);color:var(--accent);margin:0 0 4px;letter-spacing:.05em;text-transform:uppercase}
+.jargon{margin:14px 0 0;padding:12px 16px;border:1px solid var(--line);border-radius:12px;font-size:.9em;background:var(--surface)}
+.jargon span{display:block;font:600 10.5px var(--hf);color:var(--accent2);margin-bottom:1px;letter-spacing:.05em;text-transform:uppercase}
+.quick{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 16px 4px;margin:20px 0 0;overflow:hidden}
+.quick::before{content:"";position:absolute;inset:0 0 auto 0;height:2px;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+.qlabel{margin:0 0 2px;font:600 10.5px var(--hf);color:var(--accent);letter-spacing:.06em;text-transform:uppercase}
+.quick ol{list-style:none;margin:0;padding:0}
+.quick li{border-top:1px solid var(--line)}.quick li:first-child{border-top:0}
+.quick a{display:flex;gap:12px;align-items:center;padding:9px 0;color:var(--head);text-decoration:none;font-size:.95em;font-weight:500;line-height:1.4}
+.quick a:hover span:last-child{color:var(--accent)}
+.emo{flex:none;width:24px;height:24px;border-radius:7px;background:var(--accent-bg);color:var(--accent);display:grid;place-items:center;font:700 12px var(--hf)}
+.sec{margin-top:46px}
+.sechead{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.sicon{flex:none;width:36px;height:36px;border-radius:10px;display:grid;place-items:center;color:var(--sc);
+background:color-mix(in srgb,var(--sc) 16%,transparent);border:1px solid color-mix(in srgb,var(--sc) 35%,transparent)}
+.sechead h2{font:700 1.15em/1.2 var(--hf);color:var(--head);margin:0;letter-spacing:-.01em;text-transform:none;display:block}
+.sechead h2::after{display:none}
+.sechead p{margin:2px 0 0;font-size:.78em;color:var(--soft)}
+.tops{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;
+transition:border-color .15s}
+.card:hover,.hero:hover{border-color:color-mix(in srgb,var(--accent) 45%,transparent)}
+.cimg{aspect-ratio:12/5;border-radius:0}
+.cbody{padding:14px 16px 14px;display:flex;flex-direction:column;flex:1}
+.card h3{font-size:1.05em}
+.grid > .card:last-child:nth-child(odd){grid-column:1/-1;flex-direction:row}
+.grid > .card:last-child:nth-child(odd) .cimg{flex:0 0 38%;aspect-ratio:auto;min-height:0}
+.grid > .card:last-child:nth-child(odd) .cimg img{position:absolute;inset:0}
+@media (max-width:700px){.tops,.grid{grid-template-columns:1fr}.sec{margin-top:36px}
+.grid > .card:last-child:nth-child(odd){flex-direction:column}.grid > .card:last-child:nth-child(odd) .cimg{flex:none;aspect-ratio:2/1;min-height:0}.grid > .card:last-child:nth-child(odd) .cimg img{position:static}}
+.hbody{display:flex;flex-direction:column;flex:1}
+.kicker a{color:var(--soft);text-decoration:none}.kicker a:hover{color:var(--accent)}
+.kicker .dot{opacity:.5}
+.so{display:flex;gap:8px;margin:0 0 6px;font-size:.92em;line-height:1.5;color:var(--ink)}
+.so b{color:var(--accent);flex:none}
+details{margin-top:auto;padding-top:6px}
+summary{list-style:none;cursor:pointer;font:500 12px var(--bf);color:var(--soft);display:inline-flex;align-items:center;gap:4px;
+padding:4px 0;user-select:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"▾";font-size:10px;transition:transform .15s}
+details[open] summary::after{transform:rotate(180deg)}
+summary:hover{color:var(--head)}
+details ul{margin:6px 0 8px}
+.read{font:500 12px var(--bf);color:var(--accent);text-decoration:none}
+.hero h3,.card h3{margin-bottom:6px}
+.tops > .hero:last-child:nth-child(even):not(.first){grid-column:1/-1}
+.tops > .hero:last-child:nth-child(even):not(.first) .wide{aspect-ratio:3/1}
+.use{display:flex;flex-direction:column;margin:2px 0 6px;font-size:.9em;line-height:1.5;color:var(--ink);
+padding:8px 11px;border-radius:9px;background:color-mix(in srgb,var(--accent2) 10%,transparent)}
+.use span{display:inline-flex;align-items:center;gap:5px;font:600 10.5px var(--hf);color:var(--accent2);letter-spacing:.05em;text-transform:uppercase;margin-bottom:1px}
+.moves{list-style:none;margin:0;padding:6px 16px;background:var(--surface);border:1px solid var(--line);border-radius:14px}
+.moves li{display:flex;gap:12px;align-items:flex-start;padding:11px 0;border-top:1px solid var(--line);font-size:.95em;color:var(--head);line-height:1.45}
+.moves li:first-child{border-top:0}
+.moves .emo{background:color-mix(in srgb,#4ADE80 14%,transparent);color:#4ADE80}
+h3 a{color:inherit;text-decoration:none;background-image:linear-gradient(currentColor,currentColor);background-size:0 1px;
+background-repeat:no-repeat;background-position:0 100%;transition:background-size .2s,color .15s}
+h3 a:hover{color:var(--accent);background-size:100% 1px}
+.btn{display:inline-flex;align-items:center;gap:5px;margin-top:7px;padding:5px 10px;border-radius:8px;font:500 12px var(--bf);
+color:var(--head);background:var(--surface2);border:1px solid var(--line);text-decoration:none;width:fit-content;max-width:100%}
+.btn span{color:var(--accent)}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.moves li > span:last-child{display:flex;flex-direction:column}
+.panel .btn{margin:0 0 14px}
+footer{margin-top:44px;padding-top:16px;border-top:1px solid var(--line);color:var(--soft);font:500 12px var(--bf);display:flex;justify-content:space-between}
+footer a{color:var(--head);text-decoration:none}
+.list a{display:flex;justify-content:space-between;padding:14px 0;border-bottom:1px solid var(--line);color:var(--head);text-decoration:none;font-size:.95em}
+.list a span{color:var(--soft)}
+@media (max-width:700px){.duo{grid-template-columns:1fr}.hero.first{display:flex;flex-direction:column;gap:0}.hero.first figure{aspect-ratio:16/9;min-height:0;max-height:none;width:100%;margin:0 0 12px}.hero.first figure img{position:static}
+.hero.first > *:not(figure){margin-left:6px}h1{font-size:1.75em}.hero.first h3{font-size:1.25em}.thumb{width:76px;height:76px}}
+</style>
+<script>
+(function(){var r=document.documentElement;
+try{var t=localStorage.getItem('peb-theme');if(t)r.dataset.theme=t;var f=localStorage.getItem('peb-fs');if(f)r.style.setProperty('--fs',f+'px')}catch(e){}
+function dark(){return r.dataset.theme!=='light'}
+function label(){var b=document.getElementById('theme');if(b)b.innerHTML=dark()?'<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>':'<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>'}
+document.addEventListener('DOMContentLoaded',function(){label();
+document.getElementById('theme').onclick=function(){r.dataset.theme=dark()?'light':'dark';try{localStorage.setItem('peb-theme',r.dataset.theme)}catch(e){}label()};
+document.getElementById('size').onclick=function(){var c=parseInt(getComputedStyle(r).getPropertyValue('--fs'))||16;
+var n=c>=20?15:c+1;r.style.setProperty('--fs',n+'px');try{localStorage.setItem('peb-fs',n)}catch(e){}}})})();
+</script></head><body><div class="wrap"><header><div class="top"><div class="brand"><span class="logo"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg></span>Paul's Energy Brief</div>
+<div class="tools"><button id="size" title="Text size" aria-label="Change text size">Aa</button>
+<button id="theme" title="Dark or light" aria-label="Switch dark or light"></button></div></div>
+<p class="eyebrow">Daily briefing · Energy flexibility</p><h1>Tuesday 24 November</h1><p class="sub">4 must-know stories · 3 min read · for the Axle Energy job</p></header><section class="quick"><p class="qlabel">In 30 seconds</p><ol><li><a href="#s22"><span class="emo">1</span><span>NESO plans location-based buying of ancillary services, so local flexibility could pay more in GB.</span></a></li><li><a href="#s13"><span class="emo">2</span><span>US states are forcing utilities to run virtual power plants, so new markets are opening.</span></a></li><li><a href="#s6"><span class="emo">3</span><span>Levelise adds Hinen batteries to its VPP, so competitors keep widening device support.</span></a></li></ol></section><nav><a href="#top">Must know</a><a href="#moves">Your move</a><a href="#learn">Learn</a><a href="#interview">Interview</a></nav><section class="sec" id="top"><div class="sechead" style="--sc:#6E9BFF"><span class="sicon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1 6.2L12 17.3 6.5 20.2l1-6.2L3 9.6l6.2-.9z"/></svg></span><div><h2>Must know</h2><p>Only what matters for you today</p></div></div><div class="tops"><article id="s22" class="hero first"><figure class="wide"><img src="img/2026-11-24-1.jpg" alt="" loading="lazy"><span class="credit">Photo: Wikipedia</span></figure><div class="hbody">
+<div class="kicker"><span class="n">1</span><span>United Kingdom</span><span class="dot">·</span><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhpR2ozbVRWb0RXSGNlenpEMWJtb20xX1c5aFdSWEtXWVRSdmZCUWdWSWZMUmtnZmtsWXFYZlhkVWR2YmZDdXNVbXIyM25jcGJrT1JOOTFZM2t0OUlVWm1rZXR0VU1IVTZrM1BxeHE1bkxDc0RwWVdFVzNLcGNTaHNYTnhXQXhFbF9Xa1dPMzl0YmhCYWZaSS1kb3dwN2pQ0gGsAUFVX3lxTE5KYTNnc2JQb0Q0NWlIeURkSFpzQjhySUprUUY4djNnb1JJTTBvN3V1UlNrd2FGTG9MOTVtN1BDRW9MSTlXbXlOU3BfbWlMd0p6U0VSY1FIWHlHZUJFTzcxWEE3NzAzY0s4WnB5Yy1VTF9JS1ZPX0JoQW45b1NGR1pzbm5CcnktbWtwS0g0Y1RTcUZPcUsxVTFZRFlqQWFmb19ST0RCVWQySlpucFo?oc=5" target="_blank" rel="noopener">Utility Week ↗</a> <span class="lock"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg> Paywall</span></div><h3><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhpR2ozbVRWb0RXSGNlenpEMWJtb20xX1c5aFdSWEtXWVRSdmZCUWdWSWZMUmtnZmtsWXFYZlhkVWR2YmZDdXNVbXIyM25jcGJrT1JOOTFZM2t0OUlVWm1rZXR0VU1IVTZrM1BxeHE1bkxDc0RwWVdFVzNLcGNTaHNYTnhXQXhFbF9Xa1dPMzl0YmhCYWZaSS1kb3dwN2pQ0gGsAUFVX3lxTE5KYTNnc2JQb0Q0NWlIeURkSFpzQjhySUprUUY4djNnb1JJTTBvN3V1UlNrd2FGTG9MOTVtN1BDRW9MSTlXbXlOU3BfbWlMd0p6U0VSY1FIWHlHZUJFTzcxWEE3NzAzY0s4WnB5Yy1VTF9JS1ZPX0JoQW45b1NGR1pzbm5CcnktbWtwS0g0Y1RTcUZPcUsxVTFZRFlqQWFmb19ST0RCVWQySlpucFo?oc=5" target="_blank" rel="noopener">NESO proposes locational ancillary services buying</a></h3><p class="so"><b>→</b>Location-based pricing could reward home devices in constrained areas, changing Axle&#x27;s GB revenue model.</p><div class="use"><span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18"/></svg> Use it</span>Use your NESO background to discuss how locational signals affect flexibility revenue in interviews.</div><details><summary>Details</summary><ul><li>NESO has set out proposals to buy ancillary services by location.</li><li>Details are in Utility Week; the paywall may limit full reading.</li></ul><a class="read" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhpR2ozbVRWb0RXSGNlenpEMWJtb20xX1c5aFdSWEtXWVRSdmZCUWdWSWZMUmtnZmtsWXFYZlhkVWR2YmZDdXNVbXIyM25jcGJrT1JOOTFZM2t0OUlVWm1rZXR0VU1IVTZrM1BxeHE1bkxDc0RwWVdFVzNLcGNTaHNYTnhXQXhFbF9Xa1dPMzl0YmhCYWZaSS1kb3dwN2pQ0gGsAUFVX3lxTE5KYTNnc2JQb0Q0NWlIeURkSFpzQjhySUprUUY4djNnb1JJTTBvN3V1UlNrd2FGTG9MOTVtN1BDRW9MSTlXbXlOU3BfbWlMd0p6U0VSY1FIWHlHZUJFTzcxWEE3NzAzY0s4WnB5Yy1VTF9JS1ZPX0JoQW45b1NGR1pzbm5CcnktbWtwS0g0Y1RTcUZPcUsxVTFZRFlqQWFmb19ST0RCVWQySlpucFo?oc=5" target="_blank" rel="noopener">Read the full article on Utility Week ↗</a></details></div></article><article id="s13" class="hero"><figure class="wide"><img src="img/2026-11-24-2.jpg" alt="" loading="lazy"></figure><div class="hbody">
+<div class="kicker"><span class="n">2</span><span>United States</span><span class="dot">·</span><a href="https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/" target="_blank" rel="noopener">Utility Dive ↗</a></div><h3><a href="https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/" target="_blank" rel="noopener">New Jersey must launch virtual power plants</a></h3><p class="so"><b>→</b>A new US state VPP programme could become a pilot market for home flexibility firms.</p><div class="use"><span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18"/></svg> Use it</span>Cite this as proof that US regulators are pushing virtual power plants into the mainstream.</div><details><summary>Details</summary><ul><li>Utilities have under a year to implement PowerUp NJ.</li><li>The two-year interim scheme will inform a long-term open-access VPP tariff.</li></ul><a class="read" href="https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/" target="_blank" rel="noopener">Read the full article on Utility Dive ↗</a></details></div></article><article id="s6" class="hero"><figure class="wide"><img src="img/2026-11-24-3.jpg" alt="" loading="lazy"></figure><div class="hbody">
+<div class="kicker"><span class="n">3</span><span>United Kingdom</span><span class="dot">·</span><a href="https://theenergyst.com/hinen-battery-systems-become-compatible-with-levelise-technology/" target="_blank" rel="noopener">The Energyst ↗</a></div><h3><a href="https://theenergyst.com/hinen-battery-systems-become-compatible-with-levelise-technology/" target="_blank" rel="noopener">Levelise adds Hinen batteries to its VPP</a></h3><p class="so"><b>→</b>A UK competitor is widening device support, which is the same race Axle is in.</p><div class="use"><span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18"/></svg> Use it</span>Add Levelise to your competitor map; expect an interview question on it.</div><details><summary>Details</summary><ul><li>Hinen home batteries now work with Levelise&#x27;s energy management platform.</li><li>They can join Levelise&#x27;s Virtual Power Plant (VPP) through installers.</li></ul><a class="read" href="https://theenergyst.com/hinen-battery-systems-become-compatible-with-levelise-technology/" target="_blank" rel="noopener">Read the full article on The Energyst ↗</a></details></div></article><article id="s50" class="hero"><figure class="wide"><img src="img/2026-11-24-4.jpg" alt="" loading="lazy"><span class="credit">Photo: Wikipedia</span></figure><div class="hbody">
+<div class="kicker"><span class="n">4</span><span>Italy</span><span class="dot">·</span><a href="https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/" target="_blank" rel="noopener">Energy Storage News ↗</a></div><h3><a href="https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/" target="_blank" rel="noopener">Italy decree may cut battery revenues</a></h3><p class="so"><b>→</b>Italy is a possible Axle market, and lower price spikes would reduce flexibility revenue.</p><div class="use"><span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18"/></svg> Use it</span>Mention Italy&#x27;s price-spike risk when discussing how you would model revenue per device.</div><details><summary>Details</summary><ul><li>A new market decree could reduce price spikes in Italy.</li><li>Grid-scale battery revenues may fall in 2027 and 2028 only.</li></ul><a class="read" href="https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/" target="_blank" rel="noopener">Read the full article on Energy Storage News ↗</a></details></div></article></div></section><section class="sec" id="moves"><div class="sechead" style="--sc:#4ADE80"><span class="sicon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9"/></svg></span><div><h2>Your move today</h2><p>Small career actions, under 20 minutes each</p></div></div><ol class="moves"><li><span class="emo">1</span><span>Read the NESO locational ancillary services proposal; note how it could open new revenue for home devices.<a class="btn" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhpR2ozbVRWb0RXSGNlenpEMWJtb20xX1c5aFdSWEtXWVRSdmZCUWdWSWZMUmtnZmtsWXFYZlhkVWR2YmZDdXNVbXIyM25jcGJrT1JOOTFZM2t0OUlVWm1rZXR0VU1IVTZrM1BxeHE1bkxDc0RwWVdFVzNLcGNTaHNYTnhXQXhFbF9Xa1dPMzl0YmhCYWZaSS1kb3dwN2pQ0gGsAUFVX3lxTE5KYTNnc2JQb0Q0NWlIeURkSFpzQjhySUprUUY4djNnb1JJTTBvN3V1UlNrd2FGTG9MOTVtN1BDRW9MSTlXbXlOU3BfbWlMd0p6U0VSY1FIWHlHZUJFTzcxWEE3NzAzY0s4WnB5Yy1VTF9JS1ZPX0JoQW45b1NGR1pzbm5CcnktbWtwS0g0Y1RTcUZPcUsxVTFZRFlqQWFmb19ST0RCVWQySlpucFo?oc=5" target="_blank" rel="noopener">Open article on Utility Week <span>↗</span></a></span></li><li><span class="emo">2</span><span>Look up Levelise on LinkedIn and note its device partners; compare them with Axle&#x27;s.<a class="btn" href="https://www.linkedin.com/search/results/companies/?keywords=Levelise" target="_blank" rel="noopener">Find Levelise on LinkedIn <span>↗</span></a></span></li><li><span class="emo">3</span><span>Read a short summary of Italy&#x27;s electricity market decree and its effect on flexibility revenue.<a class="btn" href="https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/" target="_blank" rel="noopener">Open article on Energy Storage News <span>↗</span></a></span></li></ol></section><div class="duo">
+<section class="sec" id="learn"><div class="sechead" style="--sc:#F472B6"><span class="sicon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM4 19V5M8 7h7"/></svg></span><div><h2>Learn one thing</h2><p>A key idea for the role</p></div></div>
+<article class="panel"><figure class="wide"><img src="img/2026-11-24-5.jpg" alt="" loading="lazy"><span class="credit">Photo: Wikipedia</span></figure><h3>Germany&#x27;s §14a rules for controllable devices</h3><ul><li>§14a is a German rule for controllable home devices like EV chargers and heat pumps.</li><li>Grid operators may limit these devices in a grid emergency, down to a minimum power.</li><li>In return, owners get reduced grid fees, which shapes how flexibility software earns.</li></ul>
+<p class="so"><b>→</b>Germany is a likely early Axle market, so knowing §14a shows you understand its device rules.</p><a class="btn" href="https://www.google.com/search?q=Germany+%C2%A714a+EnWG+controllable+consumption+devices+explained" target="_blank" rel="noopener">Search: Germany §14a EnWG controllable consumption devices explained <span>↗</span></a></article></section>
+<section class="sec" id="interview"><div class="sechead" style="--sc:#FB923C"><span class="sicon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg></span><div><h2>Interview angle</h2><p>Be ready if Axle asks</p></div></div>
+<article class="panel"><p class="q">“How would you pick Axle&#x27;s next country for home flexibility?”</p><p class="label">You could say</p><ul><li>Score markets on rules, device base, revenue per device and grid partner access.</li><li>At NESO I saw how market rules shape flexibility revenue and entry timing.</li><li>Use Cornwall Insight style due diligence; pilot with one supplier before scaling.</li></ul></article></section>
+</div><footer><span>Updated every morning</span><a href="archive.html">Past briefs →</a></footer></div></body></html>

@@ -1,0 +1,154 @@
+{
+ "interview": {
+  "question": "How would you pick Axle's next country for home flexibility?",
+  "answer": [
+   "Score markets on rules, device base, revenue per device and grid partner access.",
+   "At NESO I saw how market rules shape flexibility revenue and entry timing.",
+   "Use Cornwall Insight style due diligence; pilot with one supplier before scaling."
+  ]
+ },
+ "learn": {
+  "title": "Germany's §14a rules for controllable devices",
+  "bullets": [
+   "§14a is a German rule for controllable home devices like EV chargers and heat pumps.",
+   "Grid operators may limit these devices in a grid emergency, down to a minimum power.",
+   "In return, owners get reduced grid fees, which shapes how flexibility software earns."
+  ],
+  "so_what": "Germany is a likely early Axle market, so knowing §14a shows you understand its device rules.",
+  "topic": "Germany §14a",
+  "wiki": "Heat pump",
+  "link": {
+   "kind": "google",
+   "id": 0,
+   "query": "Germany §14a EnWG controllable consumption devices explained"
+  },
+  "img": "img/2026-11-24-5.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "moves": [
+  {
+   "text": "Read the NESO locational ancillary services proposal; note how it could open new revenue for home devices.",
+   "link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   }
+  },
+  {
+   "text": "Look up Levelise on LinkedIn and note its device partners; compare them with Axle's.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Levelise"
+   }
+  },
+  {
+   "text": "Read a short summary of Italy's electricity market decree and its effect on flexibility revenue.",
+   "link": {
+    "kind": "article",
+    "id": 50,
+    "query": ""
+   }
+  }
+ ],
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "NESO plans location-based buying of ancillary services, so local flexibility could pay more in GB.",
+   "id": 22
+  },
+  {
+   "emoji": "",
+   "text": "US states are forcing utilities to run virtual power plants, so new markets are opening.",
+   "id": 13
+  },
+  {
+   "emoji": "",
+   "text": "Levelise adds Hinen batteries to its VPP, so competitors keep widening device support.",
+   "id": 6
+  }
+ ],
+ "top3": [
+  {
+   "id": 22,
+   "headline": "NESO proposes locational ancillary services buying",
+   "bullets": [
+    "NESO has set out proposals to buy ancillary services by location.",
+    "Details are in Utility Week; the paywall may limit full reading."
+   ],
+   "why": "Location-based pricing could reward home devices in constrained areas, changing Axle's GB revenue model.",
+   "use": "Use your NESO background to discuss how locational signals affect flexibility revenue in interviews.",
+   "use_link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Transmission tower",
+   "paywall": true,
+   "img": "img/2026-11-24-1.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 13,
+   "headline": "New Jersey must launch virtual power plants",
+   "bullets": [
+    "Utilities have under a year to implement PowerUp NJ.",
+    "The two-year interim scheme will inform a long-term open-access VPP tariff."
+   ],
+   "why": "A new US state VPP programme could become a pilot market for home flexibility firms.",
+   "use": "Cite this as proof that US regulators are pushing virtual power plants into the mainstream.",
+   "use_link": {
+    "kind": "article",
+    "id": 13,
+    "query": ""
+   },
+   "country": "United States",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-24-2.jpg",
+   "credit": ""
+  },
+  {
+   "id": 6,
+   "headline": "Levelise adds Hinen batteries to its VPP",
+   "bullets": [
+    "Hinen home batteries now work with Levelise's energy management platform.",
+    "They can join Levelise's Virtual Power Plant (VPP) through installers."
+   ],
+   "why": "A UK competitor is widening device support, which is the same race Axle is in.",
+   "use": "Add Levelise to your competitor map; expect an interview question on it.",
+   "use_link": {
+    "kind": "article",
+    "id": 6,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Home energy storage",
+   "paywall": false,
+   "img": "img/2026-11-24-3.jpg",
+   "credit": ""
+  },
+  {
+   "id": 50,
+   "headline": "Italy decree may cut battery revenues",
+   "bullets": [
+    "A new market decree could reduce price spikes in Italy.",
+    "Grid-scale battery revenues may fall in 2027 and 2028 only."
+   ],
+   "why": "Italy is a possible Axle market, and lower price spikes would reduce flexibility revenue.",
+   "use": "Mention Italy's price-spike risk when discussing how you would model revenue per device.",
+   "use_link": {
+    "kind": "article",
+    "id": 50,
+    "query": ""
+   },
+   "country": "Italy",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-24-4.jpg",
+   "credit": "Photo: Wikipedia"
+  }
+ ],
+ "sections": []
+}
