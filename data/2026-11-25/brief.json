@@ -1,0 +1,174 @@
+{
+ "interview": {
+  "question": "Which first country would you pick for Axle, and why?",
+  "answer": [
+   "Germany: VW and Elli V2G launch shows demand, and I would test §14a access.",
+   "I would score markets on rules, device base and revenue, as I did at NESO.",
+   "GB lessons from Ofgem and Cornwall Insight show how flexibility rules can shift fast."
+  ]
+ },
+ "learn": {
+  "title": "Germany's balancing markets: FCR, aFRR, mFRR",
+  "bullets": [
+   "FCR (frequency containment reserve) reacts in seconds and is paid for capacity.",
+   "aFRR (automatic frequency restoration reserve) follows a grid signal, within minutes.",
+   "mFRR (manual frequency restoration reserve) is called by the operator, slower, and easier for small fleets."
+  ],
+  "so_what": "Knowing which product a home battery fleet can serve helps you model German revenue per device.",
+  "topic": "Germany's balancing markets",
+  "wiki": "Transmission tower",
+  "link": {
+   "kind": "wikipedia",
+   "id": 0,
+   "query": "Frequency response"
+  },
+  "img": "img/2026-11-25-6.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "moves": [
+  {
+   "text": "Read the Elli V2G launch story and note how the €720 payment works; expect an interview question.",
+   "link": {
+    "kind": "article",
+    "id": 16,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow Elli on LinkedIn and watch who partners with it on V2G in Germany.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Elli"
+   }
+  },
+  {
+   "text": "Skim the Cornwall Insight flexibility piece and draft a LinkedIn comment with your NESO view.",
+   "link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   }
+  }
+ ],
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "VW pays German drivers for V2G, so car makers now compete with Axle for home flexibility.",
+   "id": 16
+  },
+  {
+   "text": "Italy's MACSE storage prices fell 12%, so grid batteries may squeeze flexibility revenues.",
+   "emoji": "",
+   "id": 53
+  },
+  {
+   "emoji": "",
+   "text": "UK small batteries near double the record, so GB home flexibility supply is growing fast.",
+   "id": 20
+  }
+ ],
+ "top3": [
+  {
+   "id": 16,
+   "headline": "VW pays drivers for home V2G",
+   "bullets": [
+    "Elli V2G programme starts in Germany in December 2026.",
+    "Drivers can earn up to €720 in the first year."
+   ],
+   "why": "A car maker is bundling flexibility payments, so it is both a rival and a possible partner.",
+   "use": "Cite this in interviews as proof home flexibility is going mainstream in Germany.",
+   "use_link": {
+    "kind": "article",
+    "id": 16,
+    "query": ""
+   },
+   "country": "Germany",
+   "wiki": "Vehicle-to-grid",
+   "paywall": false,
+   "img": "img/2026-11-25-1.jpg",
+   "credit": ""
+  },
+  {
+   "id": 13,
+   "headline": "VW and Elli launch €1,995 V2G wallbox",
+   "bullets": [
+    "Bidirectional DC wallbox costs €1,995.",
+    "Launch covers VW, VW Commercial Vehicles, Cupra and Skoda."
+   ],
+   "why": "Cheap bidirectional hardware makes car batteries a bigger flexibility pool across several brands.",
+   "use": "Add Elli to your competitor and partner map before any Axle interview.",
+   "use_link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Elli"
+   },
+   "country": "Germany",
+   "wiki": "Charging station",
+   "paywall": false,
+   "img": "img/2026-11-25-2.jpg",
+   "credit": ""
+  },
+  {
+   "id": 22,
+   "headline": "GB flexibility markets keep evolving",
+   "bullets": [
+    "Cornwall Insight reviews current changes in GB flexibility markets.",
+    "Your former employer is tracking this space."
+   ],
+   "why": "GB is Axle's home market, so rule changes affect its revenue and your credibility.",
+   "use": "Read it and note two points to raise with Axle.",
+   "use_link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Smart meter",
+   "paywall": false,
+   "img": "img/2026-11-25-3.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 20,
+   "headline": "UK home batteries near double record",
+   "bullets": [
+    "MCS data shows 2026 installs close to doubling the annual record.",
+    "Policy support is expected to fuel growth in 2027."
+   ],
+   "why": "More home batteries in GB means a bigger base of devices for Axle to control.",
+   "use": "Quote the MCS figure when discussing GB device growth.",
+   "use_link": {
+    "kind": "article",
+    "id": 20,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-25-4.jpg",
+   "credit": ""
+  },
+  {
+   "id": 53,
+   "headline": "Italy's second storage auction clears lower",
+   "bullets": [
+    "Terna bought 16GWh of long-term BESS capacity.",
+    "Price cleared 12% below the first auction."
+   ],
+   "why": "Italy is a likely expansion market, and falling storage prices pressure flexibility revenue.",
+   "use": "Read up on Italy's MACSE scheme to compare it with other markets.",
+   "use_link": {
+    "kind": "google",
+    "id": 0,
+    "query": "Italy MACSE auction Terna explained"
+   },
+   "country": "Italy",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-25-5.jpg",
+   "credit": "Photo: Wikipedia"
+  }
+ ],
+ "sections": []
+}
