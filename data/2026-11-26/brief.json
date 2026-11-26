@@ -1,0 +1,154 @@
+{
+ "interview": {
+  "question": "NESO's flexibility service saw weak volumes. How would you fix it?",
+  "answer": [
+   "At NESO I saw how rule design drives participation; merged products need clear signals.",
+   "Aggregators need simple rules, firm prices and early notice to commit devices.",
+   "From Cornwall Insight work, I would test revenue stacking so small assets can join."
+  ]
+ },
+ "learn": {
+  "title": "Italy's MACSE storage auctions",
+  "bullets": [
+   "MACSE (Italy's grid-scale storage auction) gives long-term contracts for big batteries.",
+   "Winners get fixed payments, so revenue risk moves from developers to the system.",
+   "Awards are concentrated in a few players, such as BW ESS and A2A."
+  ],
+  "so_what": "It shows how Italy is buying flexibility at grid scale, which sets the price Axle's home devices compete with.",
+  "topic": "Spain and Italy flexibility schemes",
+  "wiki": "Battery storage power station",
+  "link": {
+   "kind": "article",
+   "id": 99,
+   "query": ""
+  },
+  "img": "img/2026-11-26-5.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "moves": [
+  {
+   "text": "Read the Utility Week story on NESO's DFS and LCM merger; prepare a two-minute view for interviews.",
+   "link": {
+    "kind": "article",
+    "id": 35,
+    "query": ""
+   }
+  },
+  {
+   "text": "Skim the Ofgem open letter on wholesale information quality and note one point to cite.",
+   "link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow Axle Energy on LinkedIn and comment on home flexibility with your NESO view.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Axle Energy"
+   }
+  }
+ ],
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "NESO bought under 1% of needed flex after the merger, so GB demand-side access looks weak.",
+   "id": 35
+  },
+  {
+   "emoji": "",
+   "text": "Italy's big battery auction is concentrated, so home flexibility must prove value against grid-scale rivals.",
+   "id": 99
+  },
+  {
+   "emoji": "",
+   "text": "Australia's push for device interoperability shows the market Axle must master to scale abroad.",
+   "id": 29
+  }
+ ],
+ "top3": [
+  {
+   "id": 35,
+   "headline": "NESO buys almost no flex after merger",
+   "bullets": [
+    "NESO secured under 1% of required flex since merging DFS and LCM.",
+    "DFS is Demand Flexibility Service; LCM is Local Constraint Market."
+   ],
+   "why": "GB's main route for home flexibility is underused, which affects Axle's home market and pitch.",
+   "use": "Cite this in interviews and offer a view on fixing participation.",
+   "use_link": {
+    "kind": "article",
+    "id": 35,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Control room",
+   "paywall": true,
+   "img": "img/2026-11-26-1.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 99,
+   "headline": "Italy's battery market gets more concentrated",
+   "bullets": [
+    "MACSE 2029 round is dominated by fewer, larger players.",
+    "BW ESS and A2A won 2,608 MWh of storage."
+   ],
+   "why": "Italy is a likely Axle market, but grid-scale batteries will set flexibility prices there.",
+   "use": "Read this Timera piece before any interview that mentions Italy.",
+   "use_link": {
+    "kind": "article",
+    "id": 99,
+    "query": ""
+   },
+   "country": "Italy",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-26-2.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 29,
+   "headline": "Australia pushes home device interoperability",
+   "bullets": [
+    "Report covers solar, batteries, EVs and appliances working together.",
+    "Interoperability is needed to make millions of home devices useful to grid."
+   ],
+   "why": "Device connection is Axle's core challenge, and Australia is a leading market for it.",
+   "use": "Quote this report when asked about device integration across countries.",
+   "use_link": {
+    "kind": "article",
+    "id": 29,
+    "query": ""
+   },
+   "country": "Australia",
+   "wiki": "Smart meter",
+   "paywall": false,
+   "img": "img/2026-11-26-3.jpg",
+   "credit": ""
+  },
+  {
+   "id": 21,
+   "headline": "Bidirectional EV charging still faces hurdles",
+   "bullets": [
+    "Costs remain high and technology solutions are incomplete.",
+    "Careful utility programme design can bring value to users and grid."
+   ],
+   "why": "Vehicle-to-grid is a possible Axle revenue line, but cost and design limit it today.",
+   "use": "Use this to give a balanced view on vehicle-to-grid in interviews.",
+   "use_link": {
+    "kind": "article",
+    "id": 21,
+    "query": ""
+   },
+   "country": "United States",
+   "wiki": "Vehicle-to-grid",
+   "paywall": false,
+   "img": "img/2026-11-26-4.jpg",
+   "credit": ""
+  }
+ ],
+ "sections": []
+}
