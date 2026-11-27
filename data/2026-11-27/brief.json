@@ -1,0 +1,154 @@
+{
+ "takeaways": [
+  {
+   "emoji": "",
+   "text": "Arriva buses joined Enel X's VPP, so fleet flexibility is a live Axle rival.",
+   "id": 5
+  },
+  {
+   "emoji": "",
+   "text": "Record GB margin notices show tight supply, so flexibility is worth more at peak.",
+   "id": 54
+  },
+  {
+   "emoji": "",
+   "text": "Ofgem is updating the time-of-use price cap, which shapes home tariff demand for Axle.",
+   "id": 4
+  }
+ ],
+ "top3": [
+  {
+   "id": 5,
+   "headline": "Arriva e-buses join Enel X's UK VPP",
+   "bullets": [
+    "Arriva has partnered with Enel X to put its electric buses into a UK virtual power plant (VPP).",
+    "The buses will help balance the UK grid."
+   ],
+   "why": "Enel X is turning commercial EV fleets into grid flexibility in GB, close to Axle's space.",
+   "use": "Add Enel X to your competitor map; expect an interview question on it.",
+   "use_link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Enel X"
+   },
+   "country": "United Kingdom",
+   "wiki": "Electric bus",
+   "paywall": false,
+   "img": "img/2026-11-27-1.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 54,
+   "headline": "GB grid margin notices hit record",
+   "bullets": [
+    "NESO issued a record number of electricity margin notices this week.",
+    "Utility Week asks if the flurry shows problems in how the market operates."
+   ],
+   "why": "Tight margins raise the value of fast, flexible demand and batteries in GB.",
+   "use": "Use this in interviews, with your NESO view, to show flexibility has real value.",
+   "use_link": {
+    "kind": "article",
+    "id": 54,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Transmission tower",
+   "paywall": false,
+   "img": "img/2026-11-27-2.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 4,
+   "headline": "Ofgem reviews time-of-use price cap method",
+   "bullets": [
+    "Ofgem ran a call for input on updating the time-of-use cap methodology.",
+    "Energy UK has published its response."
+   ],
+   "why": "Cap design affects how suppliers price smart tariffs, and so what Axle's devices can earn.",
+   "use": "Read the Energy UK response and note one point to raise with Axle.",
+   "use_link": {
+    "kind": "article",
+    "id": 4,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Smart meter",
+   "paywall": false,
+   "img": "img/2026-11-27-3.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 64,
+   "headline": "Italy battery toll signals private market",
+   "bullets": [
+    "Zelestra and Statkraft agreed an 8-year, 700 MWh battery toll in Italy.",
+    "It came days after Italy's second MACSE auction closed."
+   ],
+   "why": "Italy is a possible Axle market, and private deals now run alongside the state auctions.",
+   "use": "Cite this as proof Italy's flexibility market is maturing beyond MACSE.",
+   "use_link": {
+    "kind": "article",
+    "id": 64,
+    "query": ""
+   },
+   "country": "Italy",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-27-4.jpg",
+   "credit": "Photo: Wikipedia"
+  }
+ ],
+ "moves": [
+  {
+   "text": "Read the Enel X and Arriva story, then list how Axle differs from Enel X.",
+   "link": {
+    "kind": "article",
+    "id": 5,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow Axle Energy on LinkedIn and comment on the margin notice news with your NESO view.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Axle Energy"
+   }
+  },
+  {
+   "text": "Skim a summary of Italy's MACSE (storage auction scheme) to prepare for market questions.",
+   "link": {
+    "kind": "google",
+    "id": 0,
+    "query": "Italy MACSE storage auction explained"
+   }
+  }
+ ],
+ "learn": {
+  "title": "Netherlands congestion management with GOPACS",
+  "bullets": [
+   "GOPACS is a platform where grid operators buy flexibility to ease local grid congestion.",
+   "TenneT (the Dutch transmission operator) and the regional operators use it together.",
+   "Flexible assets are paid to shift demand or output away from congested times."
+  ],
+  "so_what": "The Netherlands has severe grid congestion, so it is a likely early market for Axle.",
+  "topic": "Netherlands congestion management",
+  "wiki": "Transmission tower",
+  "link": {
+   "kind": "google",
+   "id": 0,
+   "query": "GOPACS congestion management platform explained"
+  },
+  "img": "img/2026-11-27-5.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "interview": {
+  "question": "Why is flexibility becoming more valuable in GB right now?",
+  "answer": [
+   "Record margin notices show tight supply, so fast demand response has real value.",
+   "At NESO I saw how balancing costs rise when margins are thin.",
+   "At Cornwall Insight I assessed how flexibility revenues stack across markets."
+  ]
+ },
+ "sections": []
+}
