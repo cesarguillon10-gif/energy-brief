@@ -1,0 +1,154 @@
+{
+ "interview": {
+  "question": "How would you pick Axle's next country after GB?",
+  "answer": [
+   "Score markets on flexibility revenue, device access, rules and grid partners.",
+   "At NESO I saw how market rules shape revenue; I would test rule stability.",
+   "At Cornwall Insight I did flexibility due diligence; I would model revenue per device first."
+  ]
+ },
+ "learn": {
+  "title": "Becoming a balancing service provider abroad",
+  "bullets": [
+   "A balancing service provider (BSP) must pass prequalification with the grid operator before bidding.",
+   "Tests cover metering, response speed, and reliable data from each device.",
+   "Small home devices usually join through an aggregator pool, not one by one."
+  ],
+  "so_what": "Every new country at Axle starts with BSP rules, so you can scope entry timelines faster.",
+  "topic": "Becoming a BSP",
+  "wiki": "Frequency response",
+  "link": {
+   "kind": "wikipedia",
+   "id": 0,
+   "query": "Demand response"
+  },
+  "img": "img/2026-11-28-5.jpg",
+  "credit": "Photo: Wikipedia"
+ },
+ "moves": [
+  {
+   "text": "Read the Utility Week piece on Octopus and RAV; prepare a view on network charging for flexibility.",
+   "link": {
+    "kind": "article",
+    "id": 29,
+    "query": ""
+   }
+  },
+  {
+   "text": "Follow Octopus Energy on LinkedIn and note how Kraken sells flexibility; expect an Axle competitor question.",
+   "link": {
+    "kind": "linkedin",
+    "id": 0,
+    "query": "Octopus Energy"
+   }
+  },
+  {
+   "text": "Skim the Ontario local flexibility market story; list three differences from GB's DFS (Demand Flexibility Service).",
+   "link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   }
+  }
+ ],
+ "takeaways": [
+  {
+   "text": "UK grid keeps issuing tight supply warnings, so paid demand flexibility has a strong case now.",
+   "emoji": "",
+   "id": 23
+  },
+  {
+   "text": "Ontario utilities are building a local flexibility market, a possible new Axle target country.",
+   "emoji": "",
+   "id": 22
+  },
+  {
+   "text": "Octopus wants network pricing reform, which could change how home flexibility earns money in GB.",
+   "emoji": "",
+   "id": 29
+  }
+ ],
+ "top3": [
+  {
+   "id": 23,
+   "headline": "UK grid issues another tight supply warning",
+   "bullets": [
+    "NESO has issued repeated warnings for tight power supply this week.",
+    "Reports say households with smart meters can get paid to cut use."
+   ],
+   "why": "Tight margins raise the value of flexible home devices and demand response in GB.",
+   "use": "Cite this in interviews as live proof that GB needs home flexibility.",
+   "use_link": {
+    "kind": "article",
+    "id": 23,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Transmission tower",
+   "paywall": true,
+   "img": "img/2026-11-28-1.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 22,
+   "headline": "Ontario utilities build local flexibility market",
+   "bullets": [
+    "Four Ontario utilities will work together on a local flexibility market.",
+    "It would pay local resources to help manage distribution grids."
+   ],
+   "why": "A new local market could be an early Axle target with utility partners.",
+   "use": "Add Ontario utilities to your country longlist and note their likely partners.",
+   "use_link": {
+    "kind": "article",
+    "id": 22,
+    "query": ""
+   },
+   "country": "Canada",
+   "wiki": "Smart meter",
+   "paywall": false,
+   "img": "img/2026-11-28-2.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 29,
+   "headline": "Octopus CEO wants to scrap network RAV",
+   "bullets": [
+    "Octopus CEO says to get rid of RAV (regulatory asset value) for networks.",
+    "The comment is about how GB network costs are funded."
+   ],
+   "why": "Network pricing reform would change the value of flexibility and Axle's GB revenue.",
+   "use": "Comment on LinkedIn with your Ofgem view on charging and flexibility incentives.",
+   "use_link": {
+    "kind": "article",
+    "id": 29,
+    "query": ""
+   },
+   "country": "United Kingdom",
+   "wiki": "Electricity pylon",
+   "paywall": true,
+   "img": "img/2026-11-28-3.jpg",
+   "credit": "Photo: Wikipedia"
+  },
+  {
+   "id": 42,
+   "headline": "Australia's home battery boom shows distress",
+   "bullets": [
+    "Quarterly CER data covers the first full quarter of the Cheaper Home Batteries reset.",
+    "The data shows signs of market distress after the changes."
+   ],
+   "why": "Australia is a leading home battery market, and subsidy resets affect VPP (virtual power plant) potential.",
+   "use": "Study this as a case of subsidy design shaping home battery demand.",
+   "use_link": {
+    "kind": "article",
+    "id": 42,
+    "query": ""
+   },
+   "country": "Australia",
+   "wiki": "Battery storage power station",
+   "paywall": false,
+   "img": "img/2026-11-28-4.jpg",
+   "credit": ""
+  }
+ ],
+ "sections": []
+}
